@@ -1,0 +1,11 @@
+.background {
+    position: fixed;
+    opacity: .8;
+    width: 100vh;
+    height: 100vh;
+}
+
+.h1 {
+    position: relative;
+    color: white;
+}
